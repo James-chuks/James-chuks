@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **some Ethical Tools and learning some deep-search forensic tools**
+ 🔭 I’m currently working on **some Ethical Hacking Tools and learning some deep-search forensic tools**
  
- 🌱 I’m currently learning **Cybersecurity, some Linux-distro (Ubuntu & Kali Linux, Cisco Networking, and Python**
+ 🌱 I’m currently learning **Cybersecurity, Software engineering on ALX**
 
- 💬 Ask me about **Pentesting, Aws, Python, PostgreSQL, MySqL... or anything [here](https://github.com/James-chuks/James-chuks/issues)**
+ 💬 Ask me about **Pentesting, Aws, Python, PostgreSQL, MySQL, Linux-distro (Ubuntu & Kali Linux, Cisco Networking, and Python... or anything [here](https://github.com/James-chuks/James-chuks/issues)**
 
  ⚡ Fun fact **Imagine the Life of A CyberBro, gets better when seeing the world differently, call it aka eagles eyes**
  
