@@ -16,7 +16,7 @@
 
  💬 Ask me about **Pentesting, Aws, Python, PostgreSQL, MySQL, Linux-distro (Ubuntu & Kali Linux, Cisco Networking, and Python... or anything [here](https://github.com/James-chuks/James-chuks/issues)**
 
- ⚡ Fun fact about me **Imagine the Life of A CyberBro, it gets better when seeing the world differently, we call it aka The Eagles Eye**
+ ⚡ Fun fact about me **Imagine the Life of A CyberBro, it gets better when seeing the world differently, we call it "The Eagles Eye"**
  
  </div>
  
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=kali,ceh,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
