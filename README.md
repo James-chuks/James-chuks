@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+James-Ude+Chukwuemeka!;" />
 </h1>
 
-<h3 align="center">A passionate Cybersecurity Specialist studying in Canada 🇨🇦 on my PGd</h3>
+<h3 align="center">A passionate Cybersecurity Specialist studying in Canada 🇨🇦 for my PGd</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **some Ethical Hacking Tools and learning some deep-search forensic tools**
+ 🔭 I’m currently working on **some Ethical Hacking Tools and Learning some deep-web forensic tools**
  
  🌱 I’m currently learning **Cybersecurity, Software engineering on ALX**
 
  💬 Ask me about **Pentesting, Aws, Python, PostgreSQL, MySQL, Linux-distro (Ubuntu & Kali Linux, Cisco Networking, and Python... or anything [here](https://github.com/James-chuks/James-chuks/issues)**
 
- ⚡ Fun fact **Imagine the Life of A CyberBro, gets better when seeing the world differently, call it aka eagles eyes**
+ ⚡ Fun fact about me **Imagine the Life of A CyberBro, it gets better when seeing the world differently, we call it aka The Eagles Eye**
  
  </div>
  
