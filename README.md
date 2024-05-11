@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+James-Ude+Chukwuemeka!;" />
 </h1>
 
+<script src="https://tryhackme.com/badge/3054945"></script>
+
 <h3 align="center">A passionate Cybersecurity Specialist studying in Canada 🇨🇦 for my PGd</h3>
 
 <br/>
