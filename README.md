@@ -2,12 +2,15 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+James-Ude+Chukwuemeka!;" />
-<script src="https://tryhackme.com/badge/3054945"> </script>
+
 </h1>
 
+<body>
+<script src="https://tryhackme.com/badge/3054945"> 
+</script>
+</body>
 
-
-<h3 align="center">A passionate Cybersecurity Specialist studying in Canada 🇨🇦 for my PGd</h3>
+<h3 align="center">A passionate Cybersecurity Specialist </h3>
 
 <br/>
 
