@@ -7,8 +7,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Cyberbro7.png" alt="TryHackMe">
 
-<script src="https://tryhackme.com/badge/3054945"> 
-</script>
 
 <h3 align="center">A passionate Cybersecurity Specialist </h3>
 
@@ -61,6 +59,9 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+
+<script src="https://tryhackme.com/badge/3054945"> </script>
+
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.demolab.com/?user=James-chuks&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
