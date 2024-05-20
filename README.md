@@ -84,9 +84,9 @@
 <h3 align="center"> My Contributions </h3>
 
 <br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/James-chuks/James-chuks/output/github-contribution-grid-snake.svg" />
 <h3>Streak Stats</h3>
 </br>
+
       
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=James-chuks&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
