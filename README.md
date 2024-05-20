@@ -51,11 +51,9 @@
 
 <div align="center">
 <br>
-    
+     <h2>🐍 Snake Eating My Contributions 🐍</h2>
   <picture>
-      <h2>🐍 Snake Eating My Contributions 🐍</h2>
-
-  <source
+       <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
