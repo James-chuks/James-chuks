@@ -78,7 +78,6 @@
 <br>
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.demolab.com/?user=James-chuks&count_private=true&theme=react&border_radius=10" alt="GitHub contribution streak stats">
-</div>
 
 </br>
     
