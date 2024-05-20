@@ -13,13 +13,15 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **some Ethical Hacking Tools and Learning some deep-web forensic tools**
+ 🔭 I’m currently working on **some Ethical Hacking Tools and Learning deep-web forensics**
  
- 🌱 I’m currently learning **Cybersecurity, Software engineering on ALX**
+ 🌱 I’m also learning more on **Cybersecurity at Post Grad Lv, and Software engineering on ALX**
 
- 💬 Ask me about **Pentesting, Aws, Python, PostgreSQL, MySQL, Linux-distro (Ubuntu & Kali Linux, Cisco Networking, and Python... or anything [here](https://github.com/James-chuks/James-chuks/issues)**
+ 💬 Ask me about **IT Support, Pentesting, Aws, Python, PostgreSQL, Cisco Networking, and Linux OSes such as Ubuntu, Kali, and others ... or anything [here](https://github.com/James-chuks/James-chuks/issues)**
 
- ⚡ Fun fact about me **Imagine the Life of A CyberBro, it gets better when seeing the world differently, we call it "The Eagles Eye"**
+ ⚡ Fun fact about me **Imagine the Life of A CyberBro, it gets better when seeing the world differently, we call it "The View from the Eagles Eye"**
+
+ **You see the World Straight when faced Up-Side-Down**
  
  </div>
  
