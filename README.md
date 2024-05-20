@@ -79,7 +79,7 @@
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.demolab.com/?user=James-chuks&count_private=true&theme=react&border_radius=10" 
 
-<h2> My Contributions </h2>
+<h3 align="center"> My Contributions </h3>
 <br>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/James-chuks/James-chuks/output/github-contribution-grid-snake.svg" />
 <h3>Streak Stats</h3>
