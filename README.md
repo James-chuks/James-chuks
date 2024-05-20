@@ -19,9 +19,9 @@
 
  💬 Ask me about **IT Support, Pentesting, Aws, Python, PostgreSQL, Cisco Networking, and Linux OSes such as Ubuntu, Kali, and others ... or anything [here](https://github.com/James-chuks/James-chuks/issues)**
 
- ⚡ Fun fact about me **Imagine the Life of A CyberBro, it gets better when seeing the world differently, we call it "The View from the Eagles Eye"**
+ ⚡ Fun fact about me **Imagine the Life of A CyberBro, it gets better when seeing the world differently, we call it "The View of the Eagle Eyes"**
 
- **You see the World Straight when faced Up-Side-Down**
+ **⚒️You see the World Straight when faced Up-Side-Down⚒️**
  
  </div>
  
