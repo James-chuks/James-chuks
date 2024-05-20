@@ -75,13 +75,16 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-
+<br>
+<div align="center">
+    
+<h3 align="center"> My Contributions </h3>
 
 <br>
-<h3 align="center"> Streak Stats </h3>
+<h3 align="center"> ⚒️Streak Statistic⚒️ </h3>
 </br>
 
-      
+<div align="center">      
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=James-chuks&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-chuks&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
