@@ -78,7 +78,7 @@
 
 
 <br>
-<h3>Streak Stats</h3>
+<h3 align="center"> Streak Stats </h3>
 </br>
 
       
