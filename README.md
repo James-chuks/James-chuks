@@ -75,8 +75,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.demolab.com/?user=James-chuks&count_private=true&theme=react&border_radius=10" 
