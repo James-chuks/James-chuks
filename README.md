@@ -51,7 +51,7 @@
 
 <div align="center">
 <br>
-     <h2>🐍 **Snake Eating My Contributions** 😂LoLs😂 🐍</h2>
+     <h1>🐍 Snake Eating My Contributions 😂LoLs😂 🐍</h1>
   <picture>
        <source
     media="(prefers-color-scheme: dark)"
